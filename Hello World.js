@@ -1,4 +1,4 @@
-// Create a Hello World Function.
+// 1.Create a Hello World Function.
 // Write a function createHelloWorld. It should return a new function that always returns "Hello World".
 
 /**
